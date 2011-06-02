@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Major Version</key><integer>1</integer>
+    <key>Minor Version</key><integer>1</integer>
+    <key>Application Version</key><string>10.2.2</string>
+    <key>Features</key><integer>5</integer>
+    <key>Show Content Ratings</key><true/>
+    <key>Music Folder</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/</string>
+    <key>Library Persistent ID</key><string>5A92AC0070A452C6</string>
+    <key>Tracks</key>
+    <dict>
+      <key>974</key>
+      <dict>
+        <key>Track ID</key><integer>974</integer>
+        <key>Name</key><string>Inforadio vom rbb live hören - www.inforadio.de (c) Rundfunk Berlin-Brandenburg</string>
+        <key>Kind</key><string>MPEG-Audio-Stream</string>
+        <key>Date Added</key><date>2010-11-12T00:26:46Z</date>
+        <key>Bit Rate</key><integer>128</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>3</integer>
+        <key>Play Date</key><integer>3373363334</integer>
+        <key>Play Date UTC</key><date>2010-11-23T11:22:14Z</date>
+        <key>Persistent ID</key><string>C3FDAA7421D90FB8</string>
+        <key>Track Type</key><string>URL</string>
+        <key>Location</key><string>http://rbb.ic.llnwd.net/stream/rbb_inforadio_mp3_m_a</string>
+      </dict>
+      <key>976</key>
+      <dict>
+        <key>Track ID</key><integer>976</integer>
+        <key>Name</key><string>Inforadio vom rbb live hören - www.inforadio.de (c) Rundfunk Berlin-Brandenburg</string>
+        <key>Kind</key><string>MPEG-Audio-Stream</string>
+        <key>Date Added</key><date>2010-11-12T00:26:46Z</date>
+        <key>Bit Rate</key><integer>128</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>1</integer>
+        <key>Play Date</key><integer>3373692889</integer>
+        <key>Play Date UTC</key><date>2010-11-27T06:54:49Z</date>
+        <key>Persistent ID</key><string>D57A20BE5BE29E1E</string>
+        <key>Track Type</key><string>URL</string>
+        <key>Location</key><string>http://rbb.ic.llnwd.net/stream/rbb_inforadio_mp3_m_b</string>
+      </dict>
+      <key>978</key>
+      <dict>
+        <key>Track ID</key><integer>978</integer>
+        <key>Name</key><string>The Rub Hip-Hop History: 1987</string>
+        <key>Artist</key><string>Cosmo Baker</string>
+        <key>Genre</key><string>Mixtape</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>164602899</integer>
+        <key>Total Time</key><integer>4115017</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>Date Modified</key><date>2010-07-23T20:59:05Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.cosmobaker.com</string>
+        <key>Play Count</key><integer>4</integer>
+        <key>Play Date</key><integer>3388139564</integer>
+        <key>Play Date UTC</key><date>2011-05-13T11:52:44Z</date>
+        <key>Sort Name</key><string>Rub Hip-Hop History: 1987</string>
+        <key>Persistent ID</key><string>98F649B0DB805DB8</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Cosmo%20Baker/Unknown%20Album/The%20Rub%20Hip-Hop%20History_%201987.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>980</key>
+      <dict>
+        <key>Track ID</key><integer>980</integer>
+        <key>Name</key><string>Rub Radio 1988</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Composer</key><string>www.itstherub.com</string>
+        <key>Album</key><string>BrooklynRadio.net</string>
+        <key>Grouping</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>67776026</integer>
+        <key>Total Time</key><integer>4235990</integer>
+        <key>Year</key><integer>1988</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T20:54:07Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>128</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.itstherub.com</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>3D1365360D9E5738</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/BrooklynRadio.net/Rub%20Radio%201988.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>982</key>
+      <dict>
+        <key>Track ID</key><integer>982</integer>
+        <key>Name</key><string>Rub Radio 1989</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Composer</key><string>www.itstherub.com</string>
+        <key>Album</key><string>BrooklynRadio.net</string>
+        <key>Grouping</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>64276436</integer>
+        <key>Total Time</key><integer>4017136</integer>
+        <key>Year</key><integer>1989</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T20:54:17Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>128</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.itstherub.com</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>C068632EEED5BD82</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/BrooklynRadio.net/Rub%20Radio%201989.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>984</key>
+      <dict>
+        <key>Track ID</key><integer>984</integer>
+        <key>Name</key><string>Rub Radio 1981</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Composer</key><string>www.itstherub.com</string>
+        <key>Album</key><string>BrooklynRadio.net</string>
+        <key>Grouping</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>64537679</integer>
+        <key>Total Time</key><integer>4033593</integer>
+        <key>Year</key><integer>1981</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T21:10:04Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>128</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.itstherub.com</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>2551FEFACCD9304A</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/BrooklynRadio.net/Rub%20Radio%201981.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>986</key>
+      <dict>
+        <key>Track ID</key><integer>986</integer>
+        <key>Name</key><string>Hip-Hop History: 1982 (mixed by DJ Eleven)</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Album Artist</key><string>The Rub</string>
+        <key>Album</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>121239917</integer>
+        <key>Total Time</key><integer>3029812</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T21:09:17Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album Artist</key><string>Rub</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>6DB58A18AED43C3C</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/www.itstherub.com/Hip-Hop%20History_%201982%20(mixed%20by%20DJ%20Eleven).mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>988</key>
+      <dict>
+        <key>Track ID</key><integer>988</integer>
+        <key>Name</key><string>Hip-Hop History: 1983 (mixed by DJ Eleven)</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Album Artist</key><string>The Rub</string>
+        <key>Album</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>118157464</integer>
+        <key>Total Time</key><integer>2952724</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T21:09:07Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album Artist</key><string>Rub</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>ED562AD8C61A94C2</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/www.itstherub.com/Hip-Hop%20History_%201983%20(mixed%20by%20DJ%20Eleven).mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>990</key>
+      <dict>
+        <key>Track ID</key><integer>990</integer>
+        <key>Name</key><string>Hip-Hop History: 1984 (mixed by DJ Eleven)</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Album Artist</key><string>The Rub</string>
+        <key>Album</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>126285270</integer>
+        <key>Total Time</key><integer>3156009</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T21:09:22Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album Artist</key><string>Rub</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>8CD0E02DB6B00198</string>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/www.itstherub.com/Hip-Hop%20History_%201984%20(mixed%20by%20DJ%20Eleven).mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>992</key>
+      <dict>
+        <key>Track ID</key><integer>992</integer>
+        <key>Name</key><string>The Rub Hip-Hop History: 1985</string>
+        <key>Artist</key><string>Cosmo Baker</string>
+        <key>Genre</key><string>Mixtape</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>138722866</integer>
+        <key>Total Time</key><integer>3468016</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>Date Modified</key><date>2010-07-23T21:09:30Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.cosmobaker.com</string>
+        <key>Play Count</key><integer>2</integer>
+        <key>Play Date</key><integer>3387371483</integer>
+        <key>Play Date UTC</key><date>2011-05-04T14:31:23Z</date>
+        <key>Sort Name</key><string>Rub Hip-Hop History: 1985</string>
+        <key>Persistent ID</key><string>C4C38565DFD56A3D</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Cosmo%20Baker/Unknown%20Album/The%20Rub%20Hip-Hop%20History_%201985.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>994</key>
+      <dict>
+        <key>Track ID</key><integer>994</integer>
+        <key>Name</key><string>Hip-Hop History: 1986 (mixed by Cosmo Baker)</string>
+        <key>Artist</key><string>The Rub</string>
+        <key>Album Artist</key><string>The Rub</string>
+        <key>Album</key><string>www.itstherub.com</string>
+        <key>Genre</key><string>Hip-Hop</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>124375101</integer>
+        <key>Total Time</key><integer>3108205</integer>
+        <key>Year</key><integer>2007</integer>
+        <key>BPM</key><integer>1</integer>
+        <key>Date Modified</key><date>2010-07-23T20:58:42Z</date>
+        <key>Date Added</key><date>2010-11-12T06:44:57Z</date>
+        <key>Bit Rate</key><integer>320</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Comments</key><string>www.cosmobaker.com</string>
+        <key>Artwork Count</key><integer>1</integer>
+        <key>Sort Album Artist</key><string>Rub</string>
+        <key>Sort Artist</key><string>Rub</string>
+        <key>Persistent ID</key><string>A9749184F823CC18</string>
+        <key>Disabled</key><true/>
+        <key>Track Type</key><string>File</string>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/The%20Rub/www.itstherub.com/Hip-Hop%20History_%201986%20(mixed%20by%20Cosmo%20Baker).mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>996</key>
+      <dict>
+        <key>Track ID</key><integer>996</integer>
+        <key>Name</key><string>Way Out</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>Rob/Cohen</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>9622611</integer>
+        <key>Total Time</key><integer>481018</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>1</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:45:48Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>1</integer>
+        <key>Play Date</key><integer>3384766594</integer>
+        <key>Play Date UTC</key><date>2011-04-04T10:56:34Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>F075208480F45291</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/01%20Way%20Out.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>998</key>
+      <dict>
+        <key>Track ID</key><integer>998</integer>
+        <key>Name</key><string>Spare Parts Express</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>12154939</integer>
+        <key>Total Time</key><integer>607634</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>2</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:46:44Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>3</integer>
+        <key>Play Date</key><integer>3387366838</integer>
+        <key>Play Date UTC</key><date>2011-05-04T13:13:58Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>19913EAA11842015</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/02%20Spare%20Parts%20Express.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1000</key>
+      <dict>
+        <key>Track ID</key><integer>1000</integer>
+        <key>Name</key><string>Know Where To Run</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>11650773</integer>
+        <key>Total Time</key><integer>582426</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>3</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:47:44Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>1</integer>
+        <key>Play Date</key><integer>3385884046</integer>
+        <key>Play Date UTC</key><date>2011-04-17T09:20:46Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>75279773403A8628</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/03%20Know%20Where%20To%20Run.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1002</key>
+      <dict>
+        <key>Track ID</key><integer>1002</integer>
+        <key>Name</key><string>I Don't Know You People</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>9354094</integer>
+        <key>Total Time</key><integer>467591</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>4</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:48:26Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>4382ED49A92EF303</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/04%20I%20Don't%20Know%20You%20People.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1004</key>
+      <dict>
+        <key>Track ID</key><integer>1004</integer>
+        <key>Name</key><string>Otono</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>Lewis/Jones</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>6963346</integer>
+        <key>Total Time</key><integer>348055</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>5</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:49:00Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>3</integer>
+        <key>Play Date</key><integer>3386766051</integer>
+        <key>Play Date UTC</key><date>2011-04-27T14:20:51Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>269BD1B21948D296</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/05%20Otono.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1006</key>
+      <dict>
+        <key>Track ID</key><integer>1006</integer>
+        <key>Name</key><string>Nothing Left 1</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>9387521</integer>
+        <key>Total Time</key><integer>469263</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>6</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:49:42Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>D7A1E725F63124BB</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/06%20Nothing%20Left%201.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1008</key>
+      <dict>
+        <key>Track ID</key><integer>1008</integer>
+        <key>Name</key><string>Nothing Left 2</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>10032223</integer>
+        <key>Total Time</key><integer>501498</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>7</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:50:22Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>1</integer>
+        <key>Play Date</key><integer>3386150392</integer>
+        <key>Play Date UTC</key><date>2011-04-20T11:19:52Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>575E3B3DABEEDB23</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/07%20Nothing%20Left%202.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+      <key>1010</key>
+      <dict>
+        <key>Track ID</key><integer>1010</integer>
+        <key>Name</key><string>Style</string>
+        <key>Artist</key><string>Orbital</string>
+        <key>Composer</key><string>P &#38; P Hartnoll</string>
+        <key>Album</key><string>The Middle Of Nowhere</string>
+        <key>Genre</key><string>Electronica/Dance</string>
+        <key>Kind</key><string>MPEG-Audiodatei</string>
+        <key>Size</key><integer>7692688</integer>
+        <key>Total Time</key><integer>384522</integer>
+        <key>Disc Number</key><integer>1</integer>
+        <key>Disc Count</key><integer>1</integer>
+        <key>Track Number</key><integer>8</integer>
+        <key>Track Count</key><integer>8</integer>
+        <key>Year</key><integer>1999</integer>
+        <key>Date Modified</key><date>2008-08-27T01:51:00Z</date>
+        <key>Date Added</key><date>2010-11-12T07:08:30Z</date>
+        <key>Bit Rate</key><integer>160</integer>
+        <key>Sample Rate</key><integer>44100</integer>
+        <key>Play Count</key><integer>1</integer>
+        <key>Play Date</key><integer>3372792609</integer>
+        <key>Play Date UTC</key><date>2010-11-16T20:50:09Z</date>
+        <key>Sort Album</key><string>Middle Of Nowhere</string>
+        <key>Persistent ID</key><string>D467D83B7FB55743</string>
+        <key>Track Type</key><string>File</string>
+        <key>File Type</key><integer>1297106739</integer>
+        <key>Location</key><string>file://localhost/Users/hans/Music/iTunes/iTunes%20Media/Music/Orbital/The%20Middle%20Of%20Nowhere/08%20Style.mp3</string>
+        <key>File Folder Count</key><integer>5</integer>
+        <key>Library Folder Count</key><integer>1</integer>
+      </dict>
+    </dict>
+  </dict>
+</plist>
