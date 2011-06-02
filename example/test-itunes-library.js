@@ -1,5 +1,5 @@
 // Read 
-var plist = require('./plist');
+var plist = require('sax-plist');
 
 var parser = new plist.Parser();
 parser.parse(process.argv[2] || (process.env.HOME + "/Music/iTunes/iTunes Music Library.xml"),
